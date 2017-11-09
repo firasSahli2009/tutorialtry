@@ -11,6 +11,8 @@ namespace nbkhjkhjk
         static void Main(string[] args)
         {
             Console.WriteLine("dfg dfgdfg");
+
+            Console.WriteLine("dfsdfgsdfgsdfgsdfg");
         }
     }
 }
