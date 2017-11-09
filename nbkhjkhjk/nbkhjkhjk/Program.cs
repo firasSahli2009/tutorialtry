@@ -13,6 +13,8 @@ namespace nbkhjkhjk
             Console.WriteLine("dfg dfgdfg");
 
             Console.WriteLine("dfsdfgsdfgsdfgsdfg");
+
+            Console.Write("dfgsd fsdfg sdfg");
         }
     }
 }
